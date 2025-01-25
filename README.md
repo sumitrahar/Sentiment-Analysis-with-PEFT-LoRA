@@ -14,7 +14,7 @@ Google Colab-friendly implementation
 
 Achieves good performance while using 98% fewer trainable parameters compared to full fine-tuning.
 
-✨ #Key Features
+✨ Key Features
 🚀 Efficient Training: ~5MB adapter weights vs 440MB full model
 
 💻 Hardware Friendly: Works on both CPU and GPU
